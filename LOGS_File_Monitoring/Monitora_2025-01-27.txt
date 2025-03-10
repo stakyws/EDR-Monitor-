@@ -1,0 +1,109 @@
+1	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127194426_ad37d0c0b35343ac80f5bfedf723abf2.tmp	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+2	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+3	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127194426_ad37d0c0b35343ac80f5bfedf723abf2.tmp	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+4	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127194426_ad37d0c0b35343ac80f5bfedf723abf2.trn	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+5	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+6	تم تعديل	C:\Windows\System32\Tasks\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+7	تم تعديل	C:\Windows\System32\Tasks\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask	2025-01-27 22:44:26	YAQOOB	فئة المهمة
+1	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\17aabbe0-f30a-4c0f-9f19-03315eb75890.tmp	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+2	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\17aabbe0-f30a-4c0f-9f19-03315eb75890.tmp	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+3	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+4	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1984c17f.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+5	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+6	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1984c17f.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+7	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1984c17f.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+8	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+9	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+10	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+11	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1984c17f.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+12	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\1f1d5bad-e690-4ca6-9ef9-354b6bd66d8f.tmp	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+13	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\1f1d5bad-e690-4ca6-9ef9-354b6bd66d8f.tmp	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+14	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+15	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1984c1ec.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+16	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+17	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1984c1ec.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+18	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1984c1ec.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+19	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+20	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+21	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+22	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1984c1ec.TMP	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+23	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\History-journal	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+24	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\History-journal	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+25	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\History	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+26	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\History-journal	2025-01-27 23:27:57	YAQOOB	فئة المهمة
+27	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202758_26e5a9d5a6e74421a23536999cf4346a.tmp	2025-01-27 23:28:03	YAQOOB	فئة المهمة
+28	تم تعديل	C:\ProgramData\Microsoft\Windows\LfSvc\Geofence\S-1-5-18_NonPackagedApp\Geofence.dat	2025-01-27 23:28:03	YAQOOB	فئة المهمة
+29	تم حذف	C:\ProgramData\Microsoft\Windows\LfSvc\Geofence\S-1-5-18_NonPackagedApp\Geofence.dat	2025-01-27 23:28:03	YAQOOB	فئة المهمة
+30	تم إنشاء	C:\ProgramData\Microsoft\Windows\LfSvc\Geofence\S-1-5-18_NonPackagedApp\Geofence.dat	2025-01-27 23:28:03	YAQOOB	فئة المهمة
+31	تم تعديل	C:\ProgramData\Microsoft\Diagnosis\EventStore.db-wal	2025-01-27 23:28:05	YAQOOB	فئة المهمة
+32	تم تعديل	C:\ProgramData\Microsoft\Diagnosis\EventStore.db-wal	2025-01-27 23:28:06	YAQOOB	فئة المهمة
+33	تم تعديل	C:\Windows\Prefetch\SVCHOST.EXE-B1C43117.pf	2025-01-27 23:28:08	YAQOOB	فئة المهمة
+34	تم تعديل	C:\Windows\Prefetch\SVCHOST.EXE-B1C43117.pf	2025-01-27 23:28:08	YAQOOB	فئة المهمة
+35	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202809_db7781d696c5414091beaf2b5b02fea1.tmp	2025-01-27 23:28:09	YAQOOB	فئة المهمة
+36	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:09	YAQOOB	فئة المهمة
+37	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202809_db7781d696c5414091beaf2b5b02fea1.tmp	2025-01-27 23:28:09	YAQOOB	فئة المهمة
+38	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202809_db7781d696c5414091beaf2b5b02fea1.trn	2025-01-27 23:28:09	YAQOOB	فئة المهمة
+39	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:09	YAQOOB	فئة المهمة
+40	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202809_f10953eb914d4d6489ee81b5af5053f2.trn	2025-01-27 23:28:10	YAQOOB	فئة المهمة
+41	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:10	YAQOOB	فئة المهمة
+42	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202809_f10953eb914d4d6489ee81b5af5053f2.trn	2025-01-27 23:28:10	YAQOOB	فئة المهمة
+43	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:10	YAQOOB	فئة المهمة
+44	تم تعديل	C:\Windows\Prefetch\SVCHOST.EXE-47E93A69.pf	2025-01-27 23:28:12	YAQOOB	فئة المهمة
+45	تم تعديل	C:\Windows\Prefetch\SVCHOST.EXE-47E93A69.pf	2025-01-27 23:28:12	YAQOOB	فئة المهمة
+46	تم حذف	C:\Users\YAQOOB\AppData\Roaming\Microsoft\VisualStudio\17.0_8b3ce194\AutoRecoverDat\16072.dat	2025-01-27 23:28:15	YAQOOB	فئة المهمة
+47	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\c8ad5804-3ed8-4c66-bafc-37a2c5a0928d.tmp	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+48	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\7a4ce39d-e699-4466-8218-1fe1c8241f32.tmp	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+49	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+50	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\c8ad5804-3ed8-4c66-bafc-37a2c5a0928d.tmp	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+51	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\7a4ce39d-e699-4466-8218-1fe1c8241f32.tmp	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+52	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+53	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+54	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+55	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+56	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+57	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+58	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+59	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+60	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+61	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+62	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+63	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+64	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+65	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Preferences~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+66	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+67	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+68	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State~RF1985377a.TMP	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+69	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:27	YAQOOB	فئة المهمة
+70	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+71	تم إنشاء	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202828_9319a2f93e324d0f870a4436f2be7524.tmp	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+72	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+73	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202828_9319a2f93e324d0f870a4436f2be7524.tmp	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+74	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202828_9319a2f93e324d0f870a4436f2be7524.trn	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+75	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+76	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+77	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+78	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:28	YAQOOB	فئة المهمة
+79	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:29	YAQOOB	فئة المهمة
+80	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:30	YAQOOB	فئة المهمة
+81	تم إعادة تسمية	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202828_f5aad835685b4a5cbd501d13c512bf4b.trn	2025-01-27 23:28:30	YAQOOB	فئة المهمة
+82	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:30	YAQOOB	فئة المهمة
+83	تم حذف	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a\20250127202828_f5aad835685b4a5cbd501d13c512bf4b.trn	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+84	تم تعديل	C:\Users\YAQOOB\AppData\Local\Microsoft\VSApplicationInsights\vstelf3e86b4023cc43f0be495508d51f588a	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+85	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+86	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+87	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+88	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+89	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:31	YAQOOB	فئة المهمة
+90	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:32	YAQOOB	فئة المهمة
+91	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:32	YAQOOB	فئة المهمة
+92	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:32	YAQOOB	فئة المهمة
+93	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:33	YAQOOB	فئة المهمة
+94	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:33	YAQOOB	فئة المهمة
+95	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:33	YAQOOB	فئة المهمة
+96	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:33	YAQOOB	فئة المهمة
+97	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:34	YAQOOB	فئة المهمة
+98	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:34	YAQOOB	فئة المهمة
+99	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:35	YAQOOB	فئة المهمة
+100	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:35	YAQOOB	فئة المهمة
+101	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:35	YAQOOB	فئة المهمة
+102	تم تعديل	C:\Users\YAQOOB\Desktop\Monitor1.5\Monitor1\Project Monitor\bin\Debug\net9.0-windows\ExportErrors.log	2025-01-27 23:28:36	YAQOOB	فئة المهمة

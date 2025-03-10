@@ -1,0 +1,197 @@
+قائمة العمليات (تم التحديث):
+-------------------------------------------------------------------
+الرقم 		|		 اسم العملية 		|		 PID 		|		 المسار 		|		 المستخدم 		|		 الحالة 		|		 الذاكرة 		|		 استخدام المعالج
+-------------------------------------------------------------------
+1 	 System Idle Process 	 0 	غير 	 غير متاح 	قيد التشغيل 	 0 MB 	 0%
+2 	 System 	 4 	غير 	 غير متاح 	قيد التشغيل 	 0.02 MB 	 2.54%
+3 	 Registry 	 124 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 85.39 MB 	 0%
+4 	 smss.exe 	 480 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0.3 MB 	 0%
+5 	 csrss.exe 	 648 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.14 MB 	 0%
+6 	 wininit.exe 	 752 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.66 MB 	 0%
+7 	 services.exe 	 956 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.96 MB 	 0%
+8 	 lsass.exe 	 964 	C:\Windows\system32\lsass.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 19.45 MB 	 0.52%
+9 	 svchost.exe 	 652 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 33.11 MB 	 0.26%
+10 	 fontdrvhost.exe 	 896 	C:\Windows\system32\fontdrvhost.exe 	 Font Driver Host\UMFD-0 	قيد التشغيل 	 0.6 MB 	 0%
+11 	 svchost.exe 	 1064 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 21.61 MB 	 0.52%
+12 	 svchost.exe 	 1124 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.17 MB 	 0.07%
+13 	 WUDFHost.exe 	 1212 	C:\Windows\System32\WUDFHost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 8.2 MB 	 0%
+14 	 svchost.exe 	 1336 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.55 MB 	 0%
+15 	 svchost.exe 	 1344 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 4.73 MB 	 0%
+16 	 svchost.exe 	 1400 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 13.72 MB 	 0.26%
+17 	 IntelCpHDCPSvc.exe 	 1456 	C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5481f7821d650a44\IntelCpHDCPSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.1 MB 	 0%
+18 	 svchost.exe 	 1468 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 4.95 MB 	 0%
+19 	 svchost.exe 	 1528 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 4.48 MB 	 0%
+20 	 IntelCpHeciSvc.exe 	 1708 	C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5481f7821d650a44\IntelCpHeciSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.48 MB 	 0%
+21 	 svchost.exe 	 1720 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.95 MB 	 0%
+22 	 svchost.exe 	 1800 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.13 MB 	 0%
+23 	 svchost.exe 	 1928 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 3.86 MB 	 0%
+24 	 igfxCUIService.exe 	 2024 	C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_5481f7821d650a44\igfxCUIService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.59 MB 	 0%
+25 	 svchost.exe 	 1396 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 9.43 MB 	 0%
+26 	 svchost.exe 	 2052 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.36 MB 	 0%
+27 	 svchost.exe 	 2064 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 3.98 MB 	 0%
+28 	 svchost.exe 	 2144 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 8.76 MB 	 0%
+29 	 svchost.exe 	 2216 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.86 MB 	 0%
+30 	 svchost.exe 	 2224 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.91 MB 	 0%
+31 	 svchost.exe 	 2316 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 2.64 MB 	 0%
+32 	 svchost.exe 	 2404 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.15 MB 	 0%
+33 	 svchost.exe 	 2440 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.76 MB 	 0%
+34 	 svchost.exe 	 2448 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.6 MB 	 0%
+35 	 svchost.exe 	 2540 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.23 MB 	 0%
+36 	 svchost.exe 	 2548 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 38.28 MB 	 6.64%
+37 	 svchost.exe 	 2556 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.88 MB 	 0%
+38 	 Memory Compression 	 2620 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 91.88 MB 	 0%
+39 	 svchost.exe 	 2684 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 17.62 MB 	 0%
+40 	 svchost.exe 	 2820 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 2.59 MB 	 0%
+41 	 svchost.exe 	 2212 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.41 MB 	 0.13%
+42 	 HotKeyServiceUWP.exe 	 2864 	C:\Windows\System32\DriverStore\FileRepository\hpqkbsoftwarecompnent.inf_amd64_b8c54d887660aa14\HotKeyServiceUWP.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+43 	 HotKeyServiceUWP.exe 	 2864 	C:\Windows\System32\DriverStore\FileRepository\hpqkbsoftwarecompnent.inf_amd64_b8c54d887660aa14\HotKeyServiceUWP.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.45 MB 	 0%
+44 	 svchost.exe 	 3268 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+45 	 svchost.exe 	 3268 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 2.89 MB 	 0%
+46 	 svchost.exe 	 3276 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 6.01 MB 	 0%
+47 	 svchost.exe 	 3284 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+48 	 svchost.exe 	 3284 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 4.86 MB 	 0%
+49 	 svchost.exe 	 3348 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+50 	 svchost.exe 	 3348 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.17 MB 	 0%
+51 	 svchost.exe 	 3356 	غير 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 0 MB 	 0%
+52 	 svchost.exe 	 3356 	غير 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 11.8 MB 	 0%
+53 	 svchost.exe 	 3736 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+54 	 svchost.exe 	 3736 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 12.68 MB 	 0%
+55 	 svchost.exe 	 3848 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+56 	 svchost.exe 	 3848 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.06 MB 	 0%
+57 	 WmiPrvSE.exe 	 3860 	C:\Windows\system32\wbem\wmiprvse.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+58 	 WmiPrvSE.exe 	 3860 	C:\Windows\system32\wbem\wmiprvse.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.41 MB 	 0%
+59 	 svchost.exe 	 3972 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+60 	 svchost.exe 	 3972 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.8 MB 	 0%
+61 	 svchost.exe 	 3980 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+62 	 svchost.exe 	 3980 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.52 MB 	 0%
+63 	 spoolsv.exe 	 4136 	C:\Windows\System32\spoolsv.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+64 	 spoolsv.exe 	 4136 	C:\Windows\System32\spoolsv.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.07 MB 	 0%
+65 	 svchost.exe 	 4236 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+66 	 svchost.exe 	 4236 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.47 MB 	 0%
+67 	 svchost.exe 	 4268 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+68 	 svchost.exe 	 4268 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.61 MB 	 0%
+69 	 svchost.exe 	 4356 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 0 MB 	 0%
+70 	 svchost.exe 	 4356 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 2.73 MB 	 0%
+71 	 wlanext.exe 	 4400 	C:\Windows\system32\WLANExt.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+72 	 wlanext.exe 	 4400 	C:\Windows\system32\WLANExt.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.45 MB 	 0%
+73 	 conhost.exe 	 4436 	C:\Windows\system32\conhost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+74 	 conhost.exe 	 4436 	C:\Windows\system32\conhost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0.52 MB 	 0%
+75 	 svchost.exe 	 4488 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+76 	 svchost.exe 	 4488 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.48 MB 	 0%
+77 	 svchost.exe 	 4532 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 0 MB 	 0%
+78 	 svchost.exe 	 4532 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 13.09 MB 	 0%
+79 	 CxMonSvc.exe 	 4556 	C:\Windows\CxSvc\CxMonSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+80 	 CxMonSvc.exe 	 4556 	C:\Windows\CxSvc\CxMonSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 12 MB 	 0%
+81 	 Everything.exe 	 4644 	C:\Program Files\Everything\Everything.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+82 	 Everything.exe 	 4644 	C:\Program Files\Everything\Everything.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.89 MB 	 0%
+83 	 CxUtilSvc.exe 	 4660 	C:\Windows\CxSvc\CxUtilSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+84 	 CxUtilSvc.exe 	 4660 	C:\Windows\CxSvc\CxUtilSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.32 MB 	 0%
+85 	 svchost.exe 	 4712 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+86 	 svchost.exe 	 4712 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.43 MB 	 0%
+87 	 svchost.exe 	 4728 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+88 	 svchost.exe 	 4728 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 27.23 MB 	 0%
+89 	 svchost.exe 	 4740 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 0 MB 	 0%
+90 	 svchost.exe 	 4740 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 3.54 MB 	 0%
+91 	 svchost.exe 	 4760 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+92 	 svchost.exe 	 4760 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.67 MB 	 0%
+93 	 ibtsiva.exe 	 4768 	C:\Windows\System32\ibtsiva.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+94 	 ibtsiva.exe 	 4768 	C:\Windows\System32\ibtsiva.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.81 MB 	 0%
+95 	 fpCSEvtSvc.exe 	 4776 	C:\Windows\System32\fpCSEvtSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+96 	 fpCSEvtSvc.exe 	 4776 	C:\Windows\System32\fpCSEvtSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.29 MB 	 0%
+97 	 OfficeClickToRun.exe 	 4788 	C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+98 	 OfficeClickToRun.exe 	 4788 	C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 33.09 MB 	 0%
+99 	 svchost.exe 	 4796 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+100 	 svchost.exe 	 4796 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.8 MB 	 0%
+101 	 svchost.exe 	 4856 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+102 	 svchost.exe 	 4856 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 6.35 MB 	 0%
+103 	 MpDefenderCoreService.exe 	 4880 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+104 	 MpDefenderCoreService.exe 	 4880 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.57 MB 	 0%
+105 	 sqlwriter.exe 	 4876 	C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+106 	 sqlwriter.exe 	 4876 	C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.77 MB 	 0%
+107 	 svchost.exe 	 4896 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+108 	 svchost.exe 	 4896 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 34.83 MB 	 0%
+109 	 SynTPEnhService.exe 	 4904 	C:\Program Files\Synaptics\SynTP\SynTPEnhService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+110 	 SynTPEnhService.exe 	 4904 	C:\Program Files\Synaptics\SynTP\SynTPEnhService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.03 MB 	 0%
+111 	 valWBFPolicyService.exe 	 4960 	C:\Windows\System32\valWBFPolicyService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+112 	 valWBFPolicyService.exe 	 4960 	C:\Windows\System32\valWBFPolicyService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.36 MB 	 0%
+113 	 svchost.exe 	 5036 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+113 	 svchost.exe 	 5036 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.63 MB 	 0%
+115 	 vmware-authd.exe 	 5044 	C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+116 	 vmware-authd.exe 	 5044 	C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 1.71 MB 	 0%
+117 	 vMixService.exe 	 3120 	C:\Program Files (x86)\vMix\drivers\vMixService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+118 	 vMixService.exe 	 3120 	C:\Program Files (x86)\vMix\drivers\vMixService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 3.71 MB 	 0%
+119 	 vmware-usbarbitrator64.exe 	 4440 	C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+120 	 vmware-usbarbitrator64.exe 	 4440 	C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 4.67 MB 	 0%
+121 	 vmnat.exe 	 5148 	C:\Windows\SysWOW64\vmnat.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+122 	 vmnat.exe 	 5148 	C:\Windows\SysWOW64\vmnat.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.03 MB 	 0%
+123 	 MsMpEng.exe 	 5196 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+124 	 MsMpEng.exe 	 5196 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 271.87 MB 	 6.58%
+125 	 svchost.exe 	 5204 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+125 	 svchost.exe 	 5204 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 14.19 MB 	 0%
+127 	 WsAppService3.exe 	 5220 	C:\Program Files (x86)\Wondershare\WAF3\3.0.0.308\WsAppService3.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+128 	 WsAppService3.exe 	 5220 	C:\Program Files (x86)\Wondershare\WAF3\3.0.0.308\WsAppService3.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 4.76 MB 	 0%
+129 	 DriverInstall.exe 	 5240 	C:\Program Files (x86)\Wondershare\dr.fone\Library\DriverInstaller\DriverInstall.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+130 	 DriverInstall.exe 	 5240 	C:\Program Files (x86)\Wondershare\dr.fone\Library\DriverInstaller\DriverInstall.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 4.75 MB 	 0%
+131 	 XtuService.exe 	 5308 	C:\Windows\SysWOW64\XtuService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+132 	 XtuService.exe 	 5308 	C:\Windows\SysWOW64\XtuService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.33 MB 	 0%
+133 	 svchost.exe 	 5336 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+134 	 svchost.exe 	 5336 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 1.54 MB 	 0%
+135 	 dasHost.exe 	 5368 	C:\Windows\system32\dashost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+135 	 dasHost.exe 	 5368 	C:\Windows\system32\dashost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+137 	 dasHost.exe 	 5368 	C:\Windows\system32\dashost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.01 MB 	 0%
+138 	 sqlceip.exe 	 5408 	C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlceip.exe 	 NT SERVICE\SQLTELEMETRY 	قيد التشغيل 	 0 MB 	 0%
+139 	 sqlceip.exe 	 5408 	C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlceip.exe 	 NT SERVICE\SQLTELEMETRY 	قيد التشغيل 	 0 MB 	 0%
+140 	 sqlceip.exe 	 5408 	C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlceip.exe 	 NT SERVICE\SQLTELEMETRY 	قيد التشغيل 	 26.37 MB 	 0%
+141 	 sqlservr.exe 	 5420 	C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlservr.exe 	 NT SERVICE\MSSQLSERVER 	قيد التشغيل 	 0 MB 	 0%
+142 	 sqlservr.exe 	 5420 	C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlservr.exe 	 NT SERVICE\MSSQLSERVER 	قيد التشغيل 	 0 MB 	 0%
+143 	 sqlservr.exe 	 5420 	C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlservr.exe 	 NT SERVICE\MSSQLSERVER 	قيد التشغيل 	 75.63 MB 	 0.13%
+144 	 svchost.exe 	 5892 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+144 	 svchost.exe 	 5892 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+146 	 svchost.exe 	 5892 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 16.57 MB 	 0%
+147 	 LanWlanWwanSwitchingServiceUWP.exe 	 5980 	C:\Windows\System32\DriverStore\FileRepository\hpqkbsoftwarecompnent.inf_amd64_b8c54d887660aa14\LanWlanWwanSwitchingServiceUWP.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.11 MB 	 0%
+148 	 LanWlanWwanSwitchingServiceUWP.exe 	 5980 	C:\Windows\System32\DriverStore\FileRepository\hpqkbsoftwarecompnent.inf_amd64_b8c54d887660aa14\LanWlanWwanSwitchingServiceUWP.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.11 MB 	 0%
+149 	 svchost.exe 	 5992 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+150 	 svchost.exe 	 5992 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+151 	 svchost.exe 	 5992 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.99 MB 	 0%
+152 	 svchost.exe 	 6928 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+153 	 svchost.exe 	 6928 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+154 	 svchost.exe 	 6928 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 5.51 MB 	 0%
+155 	 svchost.exe 	 5484 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 0 MB 	 0%
+156 	 svchost.exe 	 5484 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 0 MB 	 0%
+157 	 svchost.exe 	 5484 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 3.39 MB 	 0%
+158 	 PresentationFontCache.exe 	 7432 	C:\Windows\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+159 	 PresentationFontCache.exe 	 7432 	C:\Windows\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+160 	 PresentationFontCache.exe 	 7432 	C:\Windows\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+161 	 svchost.exe 	 7588 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+162 	 svchost.exe 	 7588 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 19.72 MB 	 0%
+163 	 svchost.exe 	 7840 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+164 	 svchost.exe 	 7840 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+165 	 svchost.exe 	 7840 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+166 	 dllhost.exe 	 8600 	C:\Windows\system32\DllHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+167 	 dllhost.exe 	 8600 	C:\Windows\system32\DllHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+168 	 dllhost.exe 	 8600 	C:\Windows\system32\DllHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+169 	 svchost.exe 	 8720 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+170 	 svchost.exe 	 8720 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+171 	 svchost.exe 	 8720 	C:\Windows\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+172 	 svchost.exe 	 8812 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+173 	 svchost.exe 	 8812 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+174 	 svchost.exe 	 8812 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+175 	 svchost.exe 	 8880 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+176 	 svchost.exe 	 8880 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+177 	 svchost.exe 	 8880 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+178 	 AggregatorHost.exe 	 9760 	C:\Windows\System32\AggregatorHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+179 	 AggregatorHost.exe 	 9760 	C:\Windows\System32\AggregatorHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+180 	 AggregatorHost.exe 	 9760 	C:\Windows\System32\AggregatorHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+181 	 svchost.exe 	 10048 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+182 	 svchost.exe 	 10048 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+183 	 svchost.exe 	 10048 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+184 	 svchost.exe 	 7176 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+185 	 svchost.exe 	 7176 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+186 	 svchost.exe 	 7176 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+187 	 svchost.exe 	 10884 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+188 	 svchost.exe 	 10884 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+189 	 svchost.exe 	 10884 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0 MB 	 0%
+190 	 svchost.exe 	 10000 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+191 	 svchost.exe 	 10000 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+192 	 svchost.exe 	 10000 	C:\Windows\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%
+193 	 NisSrv.exe 	 7548 	غير 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 0 MB 	 0%

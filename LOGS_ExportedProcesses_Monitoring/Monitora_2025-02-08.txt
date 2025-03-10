@@ -1,0 +1,241 @@
+قائمة العمليات (تم التحديث):
+-------------------------------------------------------------------
+الرقم 		|		 اسم العملية 		|		 PID 		|		 المسار 		|		 المستخدم 		|		 الحالة 		|		 الذاكرة 		|		 استخدام المعالج
+-------------------------------------------------------------------
+1 	 Secure System 	 56 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 22.52 MB 	 0%
+2 	 WUDFHost.exe 	 828 	C:\Windows\System32\WUDFHost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 8.72 MB 	 0%
+3 	 WmiPrvSE.exe 	 6696 	C:\WINDOWS\system32\wbem\wmiprvse.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 35.02 MB 	 98.44%
+4 	 StartMenuExperienceHost.exe 	 8236 	C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 77.2 MB 	 0%
+5 	 ApplicationFrameHost.exe 	 1820 	C:\WINDOWS\system32\ApplicationFrameHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 34.69 MB 	 0%
+6 	 UserOOBEBroker.exe 	 1124 	C:\Windows\System32\oobe\UserOOBEBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 8.88 MB 	 0%
+7 	 RAVCpl64.exe 	 5960 	C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe 	 STAKYWS\Smart 	قيد التشغيل 	 2.58 MB 	 0%
+8 	 Monitora_Users.exe 	 9060 	C:\Users\Smart\AppData\Local\Temp\Rar$EXa12568.45796.rartemp\Monitor1\Project Monitor\bin\Debug\net9.0-windows\Monitora_Users.exe 	 STAKYWS\Smart 	قيد التشغيل 	 287.62 MB 	 4.04%
+9 	 Monitora_Users.exe 	 1768 	C:\Users\Smart\Desktop\bat\Monitor1\Project Monitor\bin\Debug\net9.0-windows\Monitora_Users.exe 	 STAKYWS\Smart 	قيد التشغيل 	 179.35 MB 	 1.43%
+10 	 System Idle Process 	 0 	غير 	 غير متاح 	قيد التشغيل 	 0 MB 	 0%
+11 	 System 	 4 	غير 	 غير متاح 	قيد التشغيل 	 2.35 MB 	 4.82%
+12 	 Registry 	 108 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 85.58 MB 	 0%
+13 	 smss.exe 	 452 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 0.99 MB 	 0%
+14 	 csrss.exe 	 736 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.29 MB 	 0.26%
+15 	 wininit.exe 	 884 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.86 MB 	 0%
+16 	 services.exe 	 964 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10 MB 	 0%
+17 	 LsaIso.exe 	 984 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 2.78 MB 	 0%
+18 	 lsass.exe 	 992 	C:\WINDOWS\system32\lsass.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 25.13 MB 	 1.95%
+19 	 svchost.exe 	 764 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 30.76 MB 	 0.13%
+20 	 fontdrvhost.exe 	 800 	C:\WINDOWS\system32\fontdrvhost.exe 	 Font Driver Host\UMFD-0 	قيد التشغيل 	 3.71 MB 	 0%
+21 	 svchost.exe 	 1040 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 20.81 MB 	 0.78%
+22 	 svchost.exe 	 1116 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.54 MB 	 0%
+23 	 svchost.exe 	 1336 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 10.24 MB 	 0%
+24 	 svchost.exe 	 1376 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.29 MB 	 0%
+25 	 svchost.exe 	 1476 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.94 MB 	 0%
+26 	 svchost.exe 	 1484 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 9.3 MB 	 0%
+27 	 svchost.exe 	 1536 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 16.85 MB 	 0%
+28 	 svchost.exe 	 1584 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 9.73 MB 	 0%
+29 	 IntelCpHDCPSvc.exe 	 1592 	C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a1e7755eb10c8b98\IntelCpHDCPSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.45 MB 	 0%
+30 	 svchost.exe 	 1628 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.88 MB 	 0%
+31 	 svchost.exe 	 1696 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.45 MB 	 0%
+32 	 svchost.exe 	 1732 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 11.08 MB 	 0%
+33 	 IntelCpHeciSvc.exe 	 1780 	C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a1e7755eb10c8b98\IntelCpHeciSvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.18 MB 	 0%
+34 	 svchost.exe 	 1860 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.62 MB 	 0%
+35 	 svchost.exe 	 2004 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.23 MB 	 0%
+36 	 svchost.exe 	 880 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.04 MB 	 0%
+37 	 svchost.exe 	 2124 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 15.27 MB 	 0%
+38 	 svchost.exe 	 2220 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 12.69 MB 	 0%
+39 	 svchost.exe 	 2240 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 6.07 MB 	 0%
+40 	 svchost.exe 	 2320 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 20.67 MB 	 0%
+41 	 svchost.exe 	 2340 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 13.42 MB 	 0%
+42 	 svchost.exe 	 2444 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 27.62 MB 	 23.44%
+43 	 svchost.exe 	 2540 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.13 MB 	 0%
+44 	 svchost.exe 	 2604 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 7.48 MB 	 0%
+45 	 svchost.exe 	 2628 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 6.34 MB 	 0%
+46 	 svchost.exe 	 2700 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.53 MB 	 0.13%
+47 	 vmms.exe 	 2748 	C:\WINDOWS\system32\vmms.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 29.08 MB 	 0%
+48 	 svchost.exe 	 2860 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.18 MB 	 0%
+49 	 ibmpmsvc.exe 	 2924 	C:\WINDOWS\System32\DriverStore\FileRepository\ibmpmdrv.inf_amd64_7b52940a5893ba07\x64\ibmpmsvc.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 4.79 MB 	 0%
+50 	 svchost.exe 	 3036 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.58 MB 	 0%
+51 	 svchost.exe 	 3048 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.03 MB 	 0%
+52 	 svchost.exe 	 3064 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.64 MB 	 0%
+53 	 svchost.exe 	 3112 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.36 MB 	 0%
+54 	 Memory Compression 	 3124 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 74.44 MB 	 0%
+55 	 igfxCUIService.exe 	 3204 	C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_14ddcd953a744ac8\igfxCUIService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.41 MB 	 0%
+56 	 svchost.exe 	 3256 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 8.29 MB 	 0%
+57 	 svchost.exe 	 3264 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.45 MB 	 0%
+58 	 svchost.exe 	 3420 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 14.12 MB 	 0%
+59 	 svchost.exe 	 3480 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.9 MB 	 0%
+60 	 svchost.exe 	 3552 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 9.56 MB 	 0%
+61 	 RtkAudioService64.exe 	 3564 	C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7 MB 	 0%
+62 	 svchost.exe 	 3640 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.32 MB 	 0%
+63 	 svchost.exe 	 3660 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.75 MB 	 0%
+64 	 svchost.exe 	 3680 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 11.51 MB 	 0%
+65 	 svchost.exe 	 3724 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.53 MB 	 0%
+66 	 svchost.exe 	 3848 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 17.2 MB 	 0%
+67 	 svchost.exe 	 3936 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 18.55 MB 	 0%
+68 	 svchost.exe 	 3996 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.32 MB 	 0%
+69 	 svchost.exe 	 4040 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 12.49 MB 	 0%
+70 	 spoolsv.exe 	 4116 	C:\WINDOWS\System32\spoolsv.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.97 MB 	 0%
+71 	 svchost.exe 	 4340 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 13.03 MB 	 0%
+72 	 agent_ovpnconnect.exe 	 4388 	C:\Program Files\OpenVPN Connect\agent_ovpnconnect.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.32 MB 	 0%
+73 	 svchost.exe 	 4400 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.58 MB 	 0%
+74 	 OfficeClickToRun.exe 	 4420 	C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 21.13 MB 	 0%
+75 	 svchost.exe 	 4476 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 14.8 MB 	 0%
+76 	 svchost.exe 	 4496 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.75 MB 	 0%
+77 	 svchost.exe 	 4508 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 34.81 MB 	 0%
+78 	 svchost.exe 	 4540 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 42.35 MB 	 0%
+79 	 svchost.exe 	 4648 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.68 MB 	 0%
+80 	 OneApp.IGCC.WinService.exe 	 4660 	C:\WINDOWS\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_021eceaa8ff1503d\OneApp.IGCC.WinService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 14.51 MB 	 0%
+81 	 ipmrptsrv.exe 	 4748 	C:\Program Files (x86)\SolarWinds\ipMonitor\ipmrptsrv.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.79 MB 	 0%
+82 	 svchost.exe 	 4756 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.09 MB 	 0%
+83 	 solarwinds_snap_agent.exe 	 4776 	C:\Program Files\SolarWinds\ipMonitor Snap\solarwinds_snap_agent.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.14 MB 	 0%
+84 	 ipmservice.exe 	 4832 	C:\Program Files (x86)\SolarWinds\ipMonitor\ipmservice.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 17.48 MB 	 0%
+85 	 jhi_service.exe 	 4840 	C:\WINDOWS\System32\DriverStore\FileRepository\dal.inf_amd64_af50fdb80983f7bc\jhi_service.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.47 MB 	 0%
+86 	 dasHost.exe 	 4880 	C:\WINDOWS\system32\dashost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 4.59 MB 	 0%
+87 	 MpDefenderCoreService.exe 	 4908 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 16.17 MB 	 0%
+88 	 EasyResume.exe 	 4916 	C:\WINDOWS\SysWOW64\EasyResume.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.61 MB 	 0%
+89 	 ovpnhelper_service.exe 	 5032 	C:\Program Files\OpenVPN Connect\ovpnhelper_service.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.37 MB 	 0%
+90 	 svchost.exe 	 5096 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.01 MB 	 0%
+91 	 svchost.exe 	 3884 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 5.98 MB 	 0%
+92 	 svchost.exe 	 5128 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.28 MB 	 0%
+93 	 sqlwriter.exe 	 5156 	C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 13.37 MB 	 0%
+94 	 svchost.exe 	 5212 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 8.5 MB 	 0%
+95 	 SwiService.exe 	 5220 	C:\WINDOWS\Sierra Wireless Inc\bin\SwiService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 14.62 MB 	 0.39%
+96 	 svchost.exe 	 5296 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 5.21 MB 	 0%
+97 	 SynTPEnhService.exe 	 5344 	C:\Program Files\Synaptics\SynTP\SynTPEnhService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.11 MB 	 0%
+98 	 svchost.exe 	 5380 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.45 MB 	 0%
+99 	 svchost.exe 	 5416 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 20.77 MB 	 0%
+100 	 vmware-usbarbitrator64.exe 	 5424 	C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10 MB 	 0%
+101 	 vmnetdhcp.exe 	 5432 	C:\WINDOWS\SysWOW64\vmnetdhcp.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 4.61 MB 	 0%
+102 	 WMIRegistrationService.exe 	 5440 	C:\WINDOWS\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_d51901c26227fb29\WMIRegistrationService.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.3 MB 	 0%
+103 	 MsMpEng.exe 	 5448 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 264.04 MB 	 27.99%
+104 	 svchost.exe 	 5532 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 6.79 MB 	 0%
+105 	 vmnat.exe 	 5584 	C:\WINDOWS\SysWOW64\vmnat.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.64 MB 	 0%
+106 	 swisnapd.exe 	 5624 	C:\Program Files\SolarWinds\ipMonitor Snap\swisnapd.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.07 MB 	 0%
+107 	 vmware-authd.exe 	 5656 	C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.3 MB 	 0%
+108 	 conhost.exe 	 5824 	C:\WINDOWS\system32\conhost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.79 MB 	 0%
+109 	 vmcompute.exe 	 6084 	C:\WINDOWS\system32\vmcompute.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.79 MB 	 0%
+110 	 svchost.exe 	 6440 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.36 MB 	 0%
+111 	 svchost.exe 	 6732 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 8.57 MB 	 0%
+112 	 svchost.exe 	 7280 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.55 MB 	 0%
+113 	 SearchIndexer.exe 	 7784 	C:\WINDOWS\system32\SearchIndexer.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 52.38 MB 	 1.56%
+114 	 dllhost.exe 	 7896 	C:\WINDOWS\system32\DllHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.25 MB 	 0%
+115 	 SWDiscoveryEngine12.exe 	 8396 	C:\Program Files (x86)\SolarWinds\ipMonitor\SWDiscoveryEngine12.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 8.43 MB 	 0%
+116 	 AggregatorHost.exe 	 8544 	C:\WINDOWS\System32\AggregatorHost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.69 MB 	 0.13%
+117 	 svchost.exe 	 8304 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 10.08 MB 	 0%
+118 	 svchost.exe 	 8628 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 17.09 MB 	 0%
+119 	 NisSrv.exe 	 7356 	غير 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.99 MB 	 0%
+120 	 PresentationFontCache.exe 	 6080 	C:\WINDOWS\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.09 MB 	 0%
+121 	 svchost.exe 	 8704 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 17.87 MB 	 0%
+122 	 svchost.exe 	 9352 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.62 MB 	 0%
+123 	 svchost.exe 	 9684 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 18.79 MB 	 0%
+124 	 SecurityHealthService.exe 	 900 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 14.98 MB 	 0%
+125 	 DolbyDAX2API.exe 	 10424 	C:\Program Files\Dolby\Dolby DAX2\DAX2_API\DolbyDAX2API.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 18.94 MB 	 0%
+126 	 svchost.exe 	 11540 	غير 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 15.98 MB 	 0%
+127 	 svchost.exe 	 5600 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.87 MB 	 0%
+128 	 sqlservr.exe 	 3872 	C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Binn\sqlservr.exe 	 NT SERVICE\MSSQL$SQLEXPRESS 	قيد التشغيل 	 77.8 MB 	 0.13%
+129 	 SgrmBroker.exe 	 9008 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.48 MB 	 0%
+130 	 sqlceip.exe 	 11192 	C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Binn\sqlceip.exe 	 NT SERVICE\SQLTELEMETRY$SQLEXPRESS 	قيد التشغيل 	 33.18 MB 	 0%
+131 	 svchost.exe 	 1460 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 16.08 MB 	 0%
+132 	 svchost.exe 	 2352 	غير 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 9.6 MB 	 0%
+133 	 svchost.exe 	 3492 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 20.3 MB 	 0%
+134 	 wmpnetwk.exe 	 9988 	C:\Program Files\Windows Media Player\wmpnetwk.exe 	 NT AUTHORITY\NETWORK SERVICE 	قيد التشغيل 	 7.21 MB 	 0%
+135 	 svchost.exe 	 3716 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 12.12 MB 	 0%
+136 	 svchost.exe 	 4820 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 12.89 MB 	 0%
+137 	 svchost.exe 	 484 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 17.62 MB 	 0%
+138 	 svchost.exe 	 10300 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 9.93 MB 	 0%
+139 	 svchost.exe 	 11232 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 12.2 MB 	 0%
+140 	 svchost.exe 	 11504 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 11.15 MB 	 0%
+141 	 svchost.exe 	 8436 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 11.73 MB 	 0%
+142 	 wlanext.exe 	 13964 	C:\WINDOWS\system32\WLANExt.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7 MB 	 0%
+143 	 conhost.exe 	 10316 	C:\WINDOWS\system32\conhost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 5.52 MB 	 0%
+144 	 svchost.exe 	 9156 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 9.97 MB 	 0%
+145 	 svchost.exe 	 16012 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 20.76 MB 	 0%
+146 	 svchost.exe 	 18200 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.96 MB 	 0%
+147 	 svchost.exe 	 1320 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.61 MB 	 0%
+148 	 svchost.exe 	 1152 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 7.96 MB 	 0%
+149 	 svchost.exe 	 15016 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 12.17 MB 	 0%
+150 	 PRTG Probe.exe 	 13796 	C:\Program Files (x86)\PRTG Network Monitor\PRTG Probe.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 51.61 MB 	 0.26%
+151 	 csrss.exe 	 13992 	غير 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.7 MB 	 0.26%
+152 	 winlogon.exe 	 12920 	C:\WINDOWS\System32\WinLogon.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.76 MB 	 0%
+153 	 fontdrvhost.exe 	 1228 	C:\WINDOWS\System32\fontdrvhost.exe 	 Font Driver Host\UMFD-13 	قيد التشغيل 	 9.3 MB 	 0%
+154 	 dwm.exe 	 16976 	C:\WINDOWS\System32\dwm.exe 	 Window Manager\DWM-13 	قيد التشغيل 	 109.26 MB 	 2.86%
+155 	 RAVBg64.exe 	 17672 	C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 13.14 MB 	 0%
+156 	 SynTPEnh.exe 	 14488 	C:\Program Files\Synaptics\SynTP\SynTPEnh.exe 	 STAKYWS\Smart 	قيد التشغيل 	 25.96 MB 	 2.08%
+157 	 SynTPHelper.exe 	 7072 	C:\Program Files\Synaptics\SynTP\SynTPHelper.exe 	 STAKYWS\Smart 	قيد التشغيل 	 5.63 MB 	 0%
+158 	 sihost.exe 	 4696 	C:\WINDOWS\system32\sihost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 27.79 MB 	 0%
+159 	 svchost.exe 	 15576 	C:\WINDOWS\system32\svchost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 26.14 MB 	 0%
+160 	 svchost.exe 	 10384 	C:\WINDOWS\system32\svchost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 8.26 MB 	 0%
+161 	 svchost.exe 	 9564 	C:\WINDOWS\system32\svchost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 38.88 MB 	 0%
+162 	 igfxEM.exe 	 3672 	C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_14ddcd953a744ac8\igfxEM.exe 	 STAKYWS\Smart 	قيد التشغيل 	 12.7 MB 	 0%
+163 	 taskhostw.exe 	 11672 	C:\WINDOWS\system32\taskhostw.exe 	 STAKYWS\Smart 	قيد التشغيل 	 17.82 MB 	 0%
+164 	 PowerMgr.exe 	 3576 	C:\WINDOWS\SysWOW64\Lenovo\PowerMgr\PowerMgr.exe 	 STAKYWS\Smart 	قيد التشغيل 	 5.47 MB 	 0.13%
+165 	 oCamTask.exe 	 11248 	C:\Program Files (x86)\oCam\oCamTask.exe 	 STAKYWS\Smart 	قيد التشغيل 	 3.32 MB 	 0%
+166 	 explorer.exe 	 16712 	C:\WINDOWS\Explorer.EXE 	 STAKYWS\Smart 	قيد التشغيل 	 228.78 MB 	 5.99%
+167 	 svchost.exe 	 6476 	C:\WINDOWS\system32\svchost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 30.88 MB 	 0%
+168 	 RuntimeBroker.exe 	 4004 	C:\Windows\System32\RuntimeBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 25.74 MB 	 0%
+169 	 ctfmon.exe 	 1176 	C:\WINDOWS\system32\ctfmon.exe 	 STAKYWS\Smart 	قيد التشغيل 	 60.93 MB 	 0%
+170 	 SearchApp.exe 	 15012 	C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe 	 STAKYWS\Smart 	قيد التشغيل 	 106.1 MB 	 0%
+171 	 RuntimeBroker.exe 	 9152 	C:\Windows\System32\RuntimeBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 33.09 MB 	 0.13%
+172 	 TextInputHost.exe 	 4140 	C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 48.68 MB 	 0%
+173 	 igfxext.exe 	 12336 	C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_14ddcd953a744ac8\igfxext.exe 	 STAKYWS\Smart 	قيد التشغيل 	 9.14 MB 	 0%
+174 	 RuntimeBroker.exe 	 5604 	C:\Windows\System32\RuntimeBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 16.95 MB 	 0%
+175 	 SecurityHealthSystray.exe 	 15880 	C:\Windows\System32\SecurityHealthSystray.exe 	 STAKYWS\Smart 	قيد التشغيل 	 8.76 MB 	 0%
+176 	 OpenVPNConnect.exe 	 2012 	C:\Program Files\OpenVPN Connect\OpenVPNConnect.exe 	 STAKYWS\Smart 	قيد التشغيل 	 70.89 MB 	 0.65%
+177 	 msedge.exe 	 16520 	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 	 STAKYWS\Smart 	قيد التشغيل 	 93.83 MB 	 0%
+178 	 OpenVPNConnect.exe 	 16780 	C:\Program Files\OpenVPN Connect\OpenVPNConnect.exe 	 STAKYWS\Smart 	قيد التشغيل 	 56.69 MB 	 0%
+179 	 msedge.exe 	 3924 	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 	 STAKYWS\Smart 	قيد التشغيل 	 7.31 MB 	 0%
+180 	 msedge.exe 	 12588 	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 	 STAKYWS\Smart 	قيد التشغيل 	 32 MB 	 0%
+181 	 msedge.exe 	 10660 	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 	 STAKYWS\Smart 	قيد التشغيل 	 27.95 MB 	 0%
+182 	 msedge.exe 	 4992 	C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe 	 STAKYWS\Smart 	قيد التشغيل 	 15.98 MB 	 0%
+183 	 SystemSettings.exe 	 13844 	C:\Windows\ImmersiveControlPanel\SystemSettings.exe 	 STAKYWS\Smart 	متوقفة مؤقتًا 	 1.48 MB 	 0%
+184 	 RAVBg64.exe 	 5904 	C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe 	 STAKYWS\Smart 	قيد التشغيل 	 3.75 MB 	 0%
+185 	 CalculatorApp.exe 	 6948 	C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_11.2405.2.0_x64__8wekyb3d8bbwe\CalculatorApp.exe 	 STAKYWS\Smart 	متوقفة مؤقتًا 	 1.5 MB 	 0%
+186 	 RuntimeBroker.exe 	 12756 	C:\Windows\System32\RuntimeBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 6.6 MB 	 0%
+187 	 svchost.exe 	 8196 	C:\WINDOWS\system32\svchost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 12.04 MB 	 0%
+188 	 LockApp.exe 	 15788 	C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe 	 STAKYWS\Smart 	قيد التشغيل 	 52.14 MB 	 0%
+189 	 RuntimeBroker.exe 	 536 	C:\Windows\System32\RuntimeBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 37.25 MB 	 0%
+190 	 WUDFHost.exe 	 13076 	C:\Windows\System32\WUDFHost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 10.04 MB 	 0%
+191 	 OpenVPNConnect.exe 	 10476 	C:\Program Files\OpenVPN Connect\OpenVPNConnect.exe 	 STAKYWS\Smart 	قيد التشغيل 	 65.17 MB 	 0%
+192 	 PRTG Server.exe 	 11884 	C:\Program Files (x86)\PRTG Network Monitor\64 bit\PRTG Server.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 61.84 MB 	 0.13%
+193 	 ShellExperienceHost.exe 	 11292 	C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 71.76 MB 	 0%
+194 	 RuntimeBroker.exe 	 10096 	C:\Windows\System32\RuntimeBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 35.78 MB 	 0%
+195 	 svchost.exe 	 12700 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 11.16 MB 	 0%
+196 	 svchost.exe 	 4636 	C:\WINDOWS\system32\svchost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 9.17 MB 	 0%
+197 	 SystemSettingsBroker.exe 	 10964 	C:\Windows\System32\SystemSettingsBroker.exe 	 STAKYWS\Smart 	قيد التشغيل 	 31.73 MB 	 0%
+198 	 chrome.exe 	 11468 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 158.89 MB 	 0.52%
+199 	 chrome.exe 	 13424 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 9.03 MB 	 0%
+200 	 chrome.exe 	 10436 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 63.57 MB 	 0.13%
+201 	 chrome.exe 	 2528 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 44.55 MB 	 0.26%
+202 	 chrome.exe 	 14880 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 17.67 MB 	 0%
+203 	 chrome.exe 	 15828 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 0 MB 	 0%
+204 	 chrome.exe 	 15828 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 355.87 MB 	 0%
+205 	 chrome.exe 	 16716 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 0 MB 	 0%
+206 	 chrome.exe 	 16716 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 21.3 MB 	 0%
+207 	 chrome.exe 	 16632 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 0 MB 	 0%
+208 	 chrome.exe 	 16632 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 26.83 MB 	 0%
+209 	 rundll32.exe 	 17268 	C:\WINDOWS\system32\rundll32.exe 	 STAKYWS\Smart 	قيد التشغيل 	 8.68 MB 	 0%
+210 	 svchost.exe 	 4700 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 6.59 MB 	 0%
+211 	 chrome.exe 	 13212 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 0 MB 	 0%
+212 	 chrome.exe 	 13212 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 59.39 MB 	 0%
+213 	 taskhostw.exe 	 18272 	C:\WINDOWS\system32\taskhostw.exe 	 STAKYWS\Smart 	قيد التشغيل 	 7.44 MB 	 0%
+214 	 chrome.exe 	 9672 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 42.01 MB 	 0%
+215 	 chrome.exe 	 220 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 22.41 MB 	 0%
+216 	 chrome.exe 	 17180 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 64.07 MB 	 0%
+217 	 chrome.exe 	 2832 	C:\Program Files\Google\Chrome\Application\chrome.exe 	 STAKYWS\Smart 	قيد التشغيل 	 74.58 MB 	 0%
+218 	 svchost.exe 	 5408 	C:\WINDOWS\System32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 6.61 MB 	 0%
+219 	 devenv.exe 	 384 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\devenv.exe 	 STAKYWS\Smart 	قيد التشغيل 	 742.47 MB 	 0.65%
+220 	 PerfWatson2.exe 	 520 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\PerfWatson2.exe 	 STAKYWS\Smart 	قيد التشغيل 	 62.87 MB 	 0%
+221 	 taskhostw.exe 	 15560 	C:\WINDOWS\system32\taskhostw.exe 	 STAKYWS\Smart 	قيد التشغيل 	 16.06 MB 	 0%
+222 	 Microsoft.ServiceHub.Controller.exe 	 2808 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe 	 STAKYWS\Smart 	قيد التشغيل 	 58.46 MB 	 0%
+223 	 ServiceHub.ThreadedWaitDialog.exe 	 10376 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe 	 STAKYWS\Smart 	قيد التشغيل 	 90.8 MB 	 0%
+224 	 ServiceHub.VSDetouredHost.exe 	 6960 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.VSDetouredHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 93.9 MB 	 0%
+225 	 ServiceHub.RoslynCodeAnalysisService.exe 	 15688 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe 	 STAKYWS\Smart 	قيد التشغيل 	 295.65 MB 	 0%
+226 	 ServiceHub.SettingsHost.exe 	 12008 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 107.86 MB 	 0%
+227 	 ServiceHub.IdentityHost.exe 	 8868 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe 	 STAKYWS\Smart 	قيد التشغيل 	 77.23 MB 	 0%
+228 	 ServiceHub.Host.CLR.x86.exe 	 11380 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe 	 STAKYWS\Smart 	قيد التشغيل 	 70.26 MB 	 0%
+229 	 ServiceHub.Host.CLR.x64.exe 	 7832 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe 	 STAKYWS\Smart 	قيد التشغيل 	 345.41 MB 	 0%
+230 	 ServiceHub.Host.CLR.x86.exe 	 17596 	C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe 	 STAKYWS\Smart 	قيد التشغيل 	 96.65 MB 	 0%
+231 	 audiodg.exe 	 14160 	C:\WINDOWS\system32\AUDIODG.EXE 	 NT AUTHORITY\LOCAL SERVICE 	قيد التشغيل 	 16.41 MB 	 0%
+232 	 svchost.exe 	 4180 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 12.12 MB 	 0%
+233 	 smartscreen.exe 	 15404 	C:\Windows\System32\smartscreen.exe 	 STAKYWS\Smart 	قيد التشغيل 	 38.41 MB 	 0%
+234 	 WmiPrvSE.exe 	 5764 	C:\WINDOWS\system32\wbem\wmiprvse.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 9.48 MB 	 0%
+235 	 WinRAR.exe 	 12568 	C:\Program Files\WinRAR\WinRAR.exe 	 STAKYWS\Smart 	قيد التشغيل 	 41.89 MB 	 0%
+236 	 svchost.exe 	 13448 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 22.18 MB 	 0%
+237 	 svchost.exe 	 3896 	C:\WINDOWS\system32\svchost.exe 	 NT AUTHORITY\SYSTEM 	قيد التشغيل 	 7.51 MB 	 0%
