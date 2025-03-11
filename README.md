@@ -3,24 +3,42 @@ Design and development of a program to monitor system performance and operations
 The program is designed using the XAML markup language and programmed using C#.
 
 This program contains several programming interfaces, and the main interfaces are five.
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/1.png)
+
+<p align="center">
+  <img src="1.png" alt="Main interface">
+</p>
 
 The first interface is the file monitoring interface, where file events are monitored and recorded, such as deletion, modification, creation of new files or folders, or renaming files.
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/2.png)
+
+<p align="center">
+  <img src="2.png" alt="Main interface">
+</p>
 
 The second interface is the device performance monitoring interface, such as monitoring CPU, RAM, GPU, KD, Total Sent Data, Total Receive Data, DISK (Hertz), and generating reports saved in files for each day of monitoring.
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/3.png)
+
+<p align="center">
+  <img src="3.png" alt="Main interface">
+</p>
 
 The third interface is the system process monitoring interface, where a cybersecurity technician can choose the processes they want to monitor.
 All processes on the device are displayed in this program, which is a feature distinct from the Task Manager's details list, where not all processes are displayed, while our program shows all processes.
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/4.png)
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/5.png)
+<p align="center">
+  <img src="4.png" alt="Main interface">
+</p>
+
+<p align="center">
+  <img src="5.png" alt="Main interface">
+</p>
 
 The fourth interface is the user monitoring interface, which tracks logins and logouts, as well as records of incorrect password entries during system login.
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/6.png)
+<p align="center">
+  <img src="6.png" alt="Main interface">
+</p>
 
 The fifth interface is the network performance and operations monitoring interface, where the following is displayed and monitored:
-![Main interface](https://github.com/stakyws/EDR-Monitor-/blob/main/7.png)
+<p align="center">
+  <img src="7.png" alt="Main interface">
+</p>
 
 Upload and download speed.
 
