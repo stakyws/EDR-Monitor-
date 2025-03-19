@@ -1,9 +1,9 @@
 <style>
     .custom-hr {
-        border: 0; /* إزالة الحد الافتراضي */
-        height: 2px; /* سمك الخط */
-        background-color: #000; /* لون الخط */
-        margin: 20px 0; /* تباعد فوق وتحت الخط */
+        border: 0;
+        height: 2px;
+        background-color: #000;
+        margin: 20px 0;
     }
 </style>
 
