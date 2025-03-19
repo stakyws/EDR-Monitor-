@@ -1,16 +1,8 @@
-<style>
-    .custom-hr {
-        border: 0;
-        height: 2px;
-        background-color: #000;
-        margin: 20px 0;
-    }
-</style>
 
-<h5>Design and development of a program to monitor system performance and operations to enhance security and track activities in a Windows environment.</h5>
+<h3>Design and development of a program to monitor system performance and operations to enhance security and track activities in a Windows environment.</h3>
 <br>
 
-<p><b>The program is designed using the XAML markup language and programmed using C#.</b></p>
+<h4>The program is designed using the XAML markup language and programmed using C#.</h4>
 <hr class="custom-hr">
 
 <h3>This program contains several programming interfaces, and the main interfaces are five.</h3>
